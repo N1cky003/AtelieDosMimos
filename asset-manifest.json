@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AtelieDosMimos/static/css/main.01f420a1.css",
-    "main.js": "/AtelieDosMimos/static/js/main.f6712418.js",
+    "main.css": "/AtelieDosMimos/static/css/main.3e505d02.css",
+    "main.js": "/AtelieDosMimos/static/js/main.5ed02888.js",
     "static/js/453.9e872d60.chunk.js": "/AtelieDosMimos/static/js/453.9e872d60.chunk.js",
     "index.html": "/AtelieDosMimos/index.html",
-    "main.01f420a1.css.map": "/AtelieDosMimos/static/css/main.01f420a1.css.map",
-    "main.f6712418.js.map": "/AtelieDosMimos/static/js/main.f6712418.js.map",
+    "main.3e505d02.css.map": "/AtelieDosMimos/static/css/main.3e505d02.css.map",
+    "main.5ed02888.js.map": "/AtelieDosMimos/static/js/main.5ed02888.js.map",
     "453.9e872d60.chunk.js.map": "/AtelieDosMimos/static/js/453.9e872d60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01f420a1.css",
-    "static/js/main.f6712418.js"
+    "static/css/main.3e505d02.css",
+    "static/js/main.5ed02888.js"
   ]
 }
